@@ -1,0 +1,15 @@
+# ninja log v5
+4	119	1677011613127904235	CMakeFiles/msdscript.dir/src/parse.cpp.o	4cf508b79c0b03e1
+5	1208	1678686371495668195	src/CMakeFiles/msdscript.dir/exec.cpp.o	3705ac0b805ba9a2
+0	4122	1677011414058395582	CMakeFiles/msdscript.dir/src/main.cpp.o	b6d58ea3b7010639
+1	798	1677011410748189081	CMakeFiles/msdscript.dir/src/test.cpp.o	8b7714a5574528c2
+6	1271	1678686371554543224	src/CMakeFiles/msdscript.dir/parse.cpp.o	987e0be3c1291c7c
+1	68	1681260185843215523	build.ninja	1a28e81adaeb215c
+5	1237	1678686371526380433	src/CMakeFiles/msdscript.dir/main.cpp.o	bb15740289642fec
+0	7	0	clean	3c8e6cc385ee00ba
+5	5514	1678686375798873817	src/CMakeFiles/msdscript.dir/cmdline.cpp.o	cc4361978ba7a04d
+0	749	1677011410699503274	CMakeFiles/msdscript.dir/src/expr.cpp.o	523ae8ee57689921
+120	201	1677011613211021958	msdscript	2794c4e3dd28bf5b
+6	1379	1678686371654694692	src/CMakeFiles/msdscript.dir/expr.cpp.o	75bfad014bcdc2e7
+7	1636	1678686371923960821	src/CMakeFiles/msdscript.dir/test.cpp.o	b93e7a0d2c5530fc
+5514	5604	1678686375896693504	src/msdscript	15518da2ab836828

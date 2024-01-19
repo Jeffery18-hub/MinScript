@@ -1,0 +1,5 @@
+/Users/tacodaddy/cs6015/msdscript/build/CMakeFiles/edit_cache.dir
+/Users/tacodaddy/cs6015/msdscript/build/CMakeFiles/rebuild_cache.dir
+/Users/tacodaddy/cs6015/msdscript/build/src/CMakeFiles/msdscript.dir
+/Users/tacodaddy/cs6015/msdscript/build/src/CMakeFiles/edit_cache.dir
+/Users/tacodaddy/cs6015/msdscript/build/src/CMakeFiles/rebuild_cache.dir

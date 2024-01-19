@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/Users/tacodaddy/cs6015/msdscript/build/src",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++14 -o CMakeFiles/msdscript.dir/main.cpp.o -c /Users/tacodaddy/cs6015/msdscript/src/main.cpp",
+  "file": "/Users/tacodaddy/cs6015/msdscript/src/main.cpp"
+},
+{
+  "directory": "/Users/tacodaddy/cs6015/msdscript/build/src",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++14 -o CMakeFiles/msdscript.dir/cmdline.cpp.o -c /Users/tacodaddy/cs6015/msdscript/src/cmdline.cpp",
+  "file": "/Users/tacodaddy/cs6015/msdscript/src/cmdline.cpp"
+},
+{
+  "directory": "/Users/tacodaddy/cs6015/msdscript/build/src",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++14 -o CMakeFiles/msdscript.dir/exec.cpp.o -c /Users/tacodaddy/cs6015/msdscript/src/exec.cpp",
+  "file": "/Users/tacodaddy/cs6015/msdscript/src/exec.cpp"
+},
+{
+  "directory": "/Users/tacodaddy/cs6015/msdscript/build/src",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++14 -o CMakeFiles/msdscript.dir/expr.cpp.o -c /Users/tacodaddy/cs6015/msdscript/src/expr.cpp",
+  "file": "/Users/tacodaddy/cs6015/msdscript/src/expr.cpp"
+},
+{
+  "directory": "/Users/tacodaddy/cs6015/msdscript/build/src",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++14 -o CMakeFiles/msdscript.dir/parse.cpp.o -c /Users/tacodaddy/cs6015/msdscript/src/parse.cpp",
+  "file": "/Users/tacodaddy/cs6015/msdscript/src/parse.cpp"
+},
+{
+  "directory": "/Users/tacodaddy/cs6015/msdscript/build/src",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++14 -o CMakeFiles/msdscript.dir/val.cpp.o -c /Users/tacodaddy/cs6015/msdscript/src/val.cpp",
+  "file": "/Users/tacodaddy/cs6015/msdscript/src/val.cpp"
+},
+{
+  "directory": "/Users/tacodaddy/cs6015/msdscript/build/src",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++14 -o CMakeFiles/msdscript.dir/Env.cpp.o -c /Users/tacodaddy/cs6015/msdscript/src/Env.cpp",
+  "file": "/Users/tacodaddy/cs6015/msdscript/src/Env.cpp"
+}
+]

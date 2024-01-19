@@ -1,0 +1,5 @@
+/Users/tacodaddy/cs6015/msdscript/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tacodaddy/cs6015/msdscript/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tacodaddy/cs6015/msdscript/cmake-build-debug/src/CMakeFiles/msdscript.dir
+/Users/tacodaddy/cs6015/msdscript/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/tacodaddy/cs6015/msdscript/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

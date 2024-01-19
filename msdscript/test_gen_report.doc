@@ -1,0 +1,42 @@
+1. one path: test msdscript
+all passed.
+
+2. two path: test msdscript msdscript0
+Trying 984943658+470211272+1457850878
+result1_interp: -1381961488
+libc++abi: terminating with uncaught exception of type std::runtime_error: different result for interp:
+result1: -1381961488
+result2: 
+result2_interp: zsh: abort      ./test_msdscript msdscript msdscript0
+
+
+Trying 984943658+470211272+1457850878
+libc++abi: terminating with uncaught exception of type std::runtime_error: different result for print:
+result1: (984943658+(470211272+1457850878))
+result2: 
+result1_print: (984943658+(470211272+1457850878))
+result2_print: zsh: abort      ./test_msdscript msdscript msdscript0
+
+3. two path: test msdscript msdscript1
+Trying 984943658+470211272+1457850878
+result1_interp: -1381961488
+libc++abi: terminating with uncaught exception of type std::runtime_error: different result for interp:
+result1: -1381961488
+result2: 
+result2_interp: zsh: abort      ./test_msdscript msdscript msdscript1
+
+Trying 984943658+470211272+1457850878
+libc++abi: terminating with uncaught exception of type std::runtime_error: different result for print:
+result1: (984943658+(470211272+1457850878))
+result2: 
+result1_print: (984943658+(470211272+1457850878))
+result2_print: zsh: abort      ./test_msdscript msdscript msdscript1
+
+4. two path: test msdscript msdscript2-7
+all passed.
+
+Author: Jun Li
+
+Created: 2023-02-28 Tue 17:22
+
+Validate
